@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boutouria Anis</title>
+</head>
+<body>
+    <header>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">WORK</a></li>
+            <li><a href="#">RESUME</a></li>
+            <li><a href="#">CONTACT</a></li>
+        </ul>
+    </nav>
+    </header>  
+    <main>
+    <section id="about">
+        <div class="Main">
+            <h1 class="heading">About<br></h1>
+            <button class="btn">
+                More About Me
+            </button>
+        </div>
+    </section>
+    <section id="WORK">
+        <div class="pic">
+            <h1 class="heading">Work</h1>
+            <img src="C:\Users\VEN-LABO\Desktop\GoMyCode\Portfolio\Portfolio\Images\image-fret.jpg" alt="">
+            <div id="Intro">
+                <h2>We Are Existing Just to satisfy You</h2>
+                <a href="#">Back To HOME</a>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quasi ex quisquam sapiente culpa reprehenderit, porro consequatur facilis omnis ab, accusantium quia voluptate dolorum sint accusamus id quidem aspernatur deleniti!
+             </p>
+            </div>
+
+        </div>
+    </section>
+    <section id="Resume">
+        <h1 class="heading">Resume</h1>
+        <div class="Gallery">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/FisREut840A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </section>
+    <section id="Contact">
+            <h1 class="heading">Contact us</h1>
+    <form action="" class="form">
+        <input type="text" name="Name" class="Input" placeholder="Enter your name">
+        <input type="Email" name="Email" class="Input" placeholder="Enter your Email">
+        <textarea name="Message" id="Message" cols="30" rows="10"></textarea>
+    </form>
+                
+    </h2>
+
+</section>
+</main>
+<footer>
+    <h1 class="Copyright reserved 2021">Copyright reserved 2021</h1>
+</footer>
+</body>
+
+</html>
